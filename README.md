@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/takacsmark/create-react-app-dockerized.svg?style=svg)](https://circleci.com/gh/takacsmark/create-react-app-dockerized)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
